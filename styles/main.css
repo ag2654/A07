@@ -28,7 +28,7 @@ a:hover {
 header {
 	border-bottom: 3px solid #931420;
 	background: linear-gradient(30deg, #f6bb73, white, #f6bb73);
-	padding-top: 1.5em 0 2em;
+	padding: 1.5em 0 2em;
 }
 
 header h2 {
